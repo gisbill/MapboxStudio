@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="snowflakewhite2.svg">
+   sodipodi:docname="snowflakewhite3.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -23,7 +23,7 @@
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="1"
+     inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.5326361"
      inkscape:cx="108.84259"
@@ -33,8 +33,8 @@
      showgrid="false"
      inkscape:window-width="1007"
      inkscape:window-height="808"
-     inkscape:window-x="422"
-     inkscape:window-y="102"
+     inkscape:window-x="546"
+     inkscape:window-y="88"
      inkscape:window-maximized="0"
      inkscape:snap-page="true"
      inkscape:snap-grids="false"
@@ -59,6 +59,13 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-82.863773,-55.65458)">
+    <rect
+       y="-2.3436666"
+       x="11.092001"
+       height="280.60843"
+       width="303.50076"
+       id="rect3374"
+       style="fill:#ffffff" />
     <g
        transform="translate(67.064903,43.09068)"
        id="g2824">
