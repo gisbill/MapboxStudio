@@ -127,7 +127,7 @@
        sodipodi:nodetypes="ccccccccccccccccccc"
        id="path3168"
        d="m 65.152323,97.079089 -0.237033,12.571871 -10.71282,6.68786 -12.839666,-8.38304 -6.86989,9.31033 15.988085,9.59361 -12.48894,7.69044 -14.016336,-7.2627 -4.768961,9.28261 14.918357,6.99952 -1.329857,15.12084 10.622129,0.88665 0.668588,-13.6867 12.455256,-7.28708 0.182609,16.46563 10.532566,0.3376 0.186863,-14.40388 10.897823,-6.03658 9.985292,6.53333"
-       style="fill:#ffffff;fill-rule:evenodd;stroke:#87cdde;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+       style="background-color: blue;fill:#ffffff;fill-rule:evenodd;stroke:#87cdde;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     <path
        id="path3174"
        d="M 62.24842,130.70947 147.06609,82.830635"
