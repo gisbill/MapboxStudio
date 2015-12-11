@@ -13,8 +13,8 @@ Or you can publish a preview from the Styles detail page.
 
 mapboxgl.accessToken = <your access token here>; // your access token
 var map = new mapboxgl.Map({
-    container: 'map', // container id
-    style: 'mapbox://styles/mapbox/streets-v8', // your style URL
-    center: [-74.50, 40], // starting position
-    zoom: 9 // starting zoom
+      container: 'map', // container id
+      style: 'mapbox://styles/mapbox/streets-v8', // your style URL
+      center: [-74.50, 40], // starting position
+      zoom: 9 // starting zoom
 });
