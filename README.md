@@ -10,6 +10,7 @@ http://www.dafont.com/santas-sleigh.font
 Once you finish a style you can add it to a mapbox.js map with this code.
 Or you can publish a preview from the Styles detail page.
 
+
 mapboxgl.accessToken = <your access token here>; // your access token
 var map = new mapboxgl.Map({
     container: 'map', // container id
